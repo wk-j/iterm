@@ -1,0 +1,3 @@
+## iTerm
+
+- [x] Display images
